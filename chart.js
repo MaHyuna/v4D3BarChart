@@ -1,14 +1,14 @@
 function barChart (data) {
     // data
-
-    // var data = [
-    //     { 'year': '2015', 'data': 1, 'color':'pink' },
-    //     { 'year': '2016', 'data': 4, 'color':'skyblue' },
-    //     { 'year': '2017', 'data': 15, 'color':'green' },
-    //     { 'year': '2018', 'data': 20, 'color':'orange' },
-    //     { 'year': '2019', 'data': 130, 'color':'red' },
-    // ]
-
+/*
+    var data = [
+        { 'year': '2015', 'data': 1, 'color':'pink' },
+        { 'year': '2016', 'data': 4, 'color':'skyblue' },
+        { 'year': '2017', 'data': 15, 'color':'green' },
+        { 'year': '2018', 'data': 20, 'color':'orange' },
+        { 'year': '2019', 'data': 130, 'color':'red' },
+    ]
+*/
     // console.log(data)
 
     // svg size
